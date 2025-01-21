@@ -66,7 +66,7 @@ The dataset contains information on registered BEVs and PHEVs in Washington Stat
 ## Deliverables
 
 ### Comprehensive Report
-- A detailed report (5-8 pages) summarizing the dataset, methodologies, results, and insights.
+- A detailed report (11 pages) summarizing the dataset, methodologies, results, and insights.
 
 ### Python Code
 - Code provided in `.py` format or a Jupyter Notebook, including all visualizations and analysis.
